@@ -1,0 +1,5 @@
+zum,yum=map(int,input().split())
+lent,fen=map(int,input().split())
+sum=abs(zum-lent)
+som=abs(yum-fen)
+print(sum,som)
